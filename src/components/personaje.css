@@ -1,0 +1,29 @@
+.container {
+    width: 80%;
+    height: 80%;
+    border: solid 1px #ffff00;
+    font-weight: bold;
+}
+
+.containerInfo > .nombrePersonaje {
+    color: #e4a788;
+    font-size: 20px;
+}
+
+.containerInfo > img {
+    width: 100%;
+    height: auto;
+}
+
+.containerInfo > .idPersonaje {
+    color: #97ce4c;
+    font-weight: bold;
+}
+.containerInfo > .estadoPersonaje {
+    color: #e89ac7;
+    font-size: 20px;
+}
+.containerInfo > .especiePersonaje {
+    color: #f840ab ;
+    font-size: 20px;
+}
